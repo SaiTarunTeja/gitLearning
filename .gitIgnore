@@ -2,3 +2,5 @@ ig1.txt
 ig2.txt
 first.txt
 newHTML - Copy.html
+Config/*
+!Config/test1.txt
